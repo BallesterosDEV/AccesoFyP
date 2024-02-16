@@ -89,6 +89,15 @@ Hemos realizado un proyecto con Spring, dividiendo nuestra arquitectura por capa
 - El token se obtiene gracias a `JWT`, lo que nos permite ingresar a las peticiones privadas, reforzando así la seguridad:
 ![image](https://github.com/BallesterosDEV/AccesoFyP/assets/118269269/20c4bd10-b132-4cd1-8e7b-4eea40f5774b)
 
+### ControllerAdvice
+- El `ControllerAdvice` nos permite manejar las excepciones proporcionando respuestas personalizadas, bien sea a modo general a todas las peticiones, o de forma específica a peticiones concretas:
+
+![image](https://github.com/BallesterosDEV/AccesoFyP/assets/118269269/8021478b-775c-42fe-b206-624a067089bc)
+
+![image](https://github.com/BallesterosDEV/AccesoFyP/assets/118269269/93d15cea-a04a-431a-b5dc-933e00ee581c)
+
+
+
 
 
 
